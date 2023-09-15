@@ -1,0 +1,28 @@
+.box{
+    background-color: red;
+    max-width: 300px;
+    height: 200px;
+}
+
+
+.active{
+    background-color:green;
+
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+
+}
+
+.links{
+    color: #000;
+    text-decoration: none;
+}
+.active-link{
+    color: red;
+}
